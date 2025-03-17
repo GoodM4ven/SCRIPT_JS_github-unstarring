@@ -5,7 +5,7 @@
 
 A simple script for auto-unstarring Gtihub repos.
 
-### Todos
+### Ideas
 
 - // TODO Maybe clicking the next button to navigate when the page list ends, instead of manually re-running the script on the next page
 - // TODO There is a bug for some reason where the last item in the list doesn't get unstarred (or confirmed in the modal; I'm not sure)
